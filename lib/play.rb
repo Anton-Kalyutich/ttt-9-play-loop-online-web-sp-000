@@ -42,5 +42,6 @@ def play(board)
   while i > board.length
     turn(board)
     i+=1
+  end
   
 end
