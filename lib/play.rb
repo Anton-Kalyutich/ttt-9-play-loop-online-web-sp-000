@@ -39,5 +39,6 @@ end
 
 def play(board)
   i = 0
-  while i >
+  while i > board.length
+  
 end
